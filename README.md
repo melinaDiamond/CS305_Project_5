@@ -1,20 +1,7 @@
-# CS305_Project_5
-For project 5
-The purpose of this project is to create a GoLang analysis tool for transforming .txt files that contain cladogram tree data in newick format into standard format.
+**Purpose**
 
-In this case, standard format is a 2D slice of int where the first element is parent nodeID, and the second element is nodeID.
+The purpose of this project is to create a program that plays a sound at a specified time. I will call it: The WakerUpper.
 
-Ex:
-Newick Format:1( 2,3(4))
-
-Standard Format:
-
-1,1
-
-1,2
-
-1,3
-
-3,4
+**License**
 
 License: MIT permissive free license
